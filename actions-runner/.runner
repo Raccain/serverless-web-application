@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Virtual Dev Machine",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/Rc4YCcXpAFj6kvHj2YjGsjlr0CRQJtcV19gdNWXSuBe1P7rTI9/",
+  "gitHubUrl": "https://github.com/Raccain/serverless-web-application",
+  "workFolder": "_work"
+}

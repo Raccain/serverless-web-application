@@ -58,7 +58,7 @@ env:
 
 jobs:
   angular_cicd:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted 
     steps:
     # Authentication
     # Set up the following secrets in your repository: AZURE_CREDENTIALS
