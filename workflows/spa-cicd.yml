@@ -17,11 +17,11 @@ on:
       CLIENT_URL: 
         description: 'Client URL'
         required: true
-        default: 'https://<cdn-endpoint-name>.azureedge.net'
+        default: 'https://<cdn-endpoint-name>_raccain.azureedge.net'
       API_URL: 
         description: 'API on APIM URL'
         required: true
-        default: 'https://<apim-name>.azure-api.net/<api-name>'
+        default: 'https://<apim-name>_raccain.azure-api.net/<api-name>'
       AZURE_STORAGE_NAME: 
         description: 'Azure storage account name'
         required: true
