@@ -7,7 +7,7 @@ on:
         required: true    
         default: 'azure-region'  
       ENVIRONMENT_TYPE: 
-        description: 'Environment: dev, test, or prod'
+        description: 'Environment: dev, test, or prod...'
         required: true
         default: 'dev'
       APP_NAME_PREFIX: 
